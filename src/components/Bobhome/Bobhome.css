@@ -1,0 +1,64 @@
+.moon2 {
+    box-sizing: border-box;
+    width: 100%;
+    transition: all 0.2s ease 0s;
+    overflow: hidden;
+    background-color: rgb(56, 67, 90);
+    border: none;
+    border-radius: 8px;
+    box-shadow: none;
+    color: rgb(42, 42, 46);
+}
+
+.moon3 {
+    padding: 6px 22px;
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.moon4 {
+    padding-left: 40px;
+    padding-right: 16px;
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+}
+
+.moon5 {
+    font-size: 16px;
+    line-height: 16px;
+    font-weight: 500;
+    color: rgb(249, 249, 250);
+    margin: 4px 0px 8px;
+}
+
+.moon6 {
+    flex-direction: row;
+    display: flex;
+}
+
+.moon7 {
+    margin-right: 48px;
+}
+
+.moon8 {
+    font-size: 20px;
+}
+
+.moon9 {
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 400;
+    color: rgb(249, 249, 250);
+    margin-bottom: 0px;
+    margin-left: 8px;
+}
+
+.moon10 {
+    position: relative;
+    padding: 9px;
+    border-radius: 20px;
+    border: 1px solid rgb(83, 146, 249);
+    transition: all 0.15s ease-in-out 0s;
+}

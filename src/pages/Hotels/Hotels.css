@@ -1,0 +1,5 @@
+/* page container */
+.page-container {
+    min-height: 100vh;
+    padding-bottom: 10px !important;
+}

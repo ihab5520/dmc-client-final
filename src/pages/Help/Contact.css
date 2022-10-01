@@ -1,0 +1,64 @@
+/* page container */
+.contact-page-container {
+    min-height: 100vh;
+    padding-bottom: 150px !important;
+    padding-top: 100px;
+}
+
+/* page main title */
+.contact-title {
+    font-size: 45px;
+    color: steelblue !important;
+    text-align: center;
+    font-family: fontastique !important;
+    letter-spacing: 3px;
+    font-weight: revert;
+    text-transform: uppercase;
+}
+
+/* blue part of the page main title */
+.blue-color {
+    color: #0f8cd1;
+}
+
+/* green part of the page main title */
+.green-color {
+    color: #158467;
+}
+
+/* buttons under the map */
+button.button-location {
+    border-radius: 50%;
+    padding: 18px;
+    outline: none;
+    background-color: #82b1ff !important;
+    border: 1px solid white;
+}
+
+/* icons under the map */
+.map-marker-icon {
+    font-size: 20px;
+}
+
+/* location and email under the map */
+.location-name {
+    color: #065c6f !important;
+    font-size: 15px;
+    font-weight: 400 !important;
+}
+
+/* email under the map */
+.location-name a {
+    color: #065c6f !important;
+}
+
+.location-email {
+    text-align: center;
+    font-size: 13px;
+}
+
+/* contact form */
+.form-contact {
+    padding: 0 !important;
+    margin-bottom: 0 !important;
+}

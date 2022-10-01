@@ -1,0 +1,71 @@
+/* page conatiner */
+.faq-container {
+    min-height: 100vh;
+    margin-bottom: 1px;
+}
+
+/* title in the top section */
+.faq-title {
+    font-size: 45px;
+    color: steelblue;
+    padding-top: 60px;
+    text-align: center;
+    font-family: fontastique;
+    letter-spacing: 3px;
+    font-weight: revert;
+    text-transform: uppercase;
+}
+
+/* main title in the second section */
+.faq-container-title {
+    text-transform: uppercase;
+    margin-top: 100px;
+    color: #065c6f;
+    font-size: 32px;
+}
+
+/* subtitle in the second section */
+.faq-subtitle {
+    font-size: 17px;
+    margin-bottom: 40px !important;
+}
+
+.fsm {
+    font-size: medium;
+}
+
+/* hr */
+.hr-faq {
+    height: 1px;
+    background-color: #a3d8f4;
+    border: none;
+}
+
+/* last paragraph in second section */
+.faq-contact-us {
+    margin-top: 50px;
+    font-size: 21px;
+    font-weight: 300;
+}
+
+/* email in the last paragraph */
+.email-faq {
+    color: #0e49b5;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+/* Media Query For Iphone */
+@media only screen and (min-device-width : 375px) and (max-device-width : 667px) {}
+
+/* Media Query For Tablet */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+    .faq-container {
+        margin-bottom: 0;
+    }
+
+    .faq-contact-us {
+        margin-top: 100px;
+    }
+
+}
